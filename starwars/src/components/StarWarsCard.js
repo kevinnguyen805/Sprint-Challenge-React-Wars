@@ -8,7 +8,6 @@ const CardContainer = styled.div`
      background-color:	#FFD9AD;
      border:1px solid white;
      width:300px;
-     height:400px;
      border-radius:10px;
 `
 
